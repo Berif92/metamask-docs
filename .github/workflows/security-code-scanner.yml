@@ -1,5 +1,5 @@
 name: MetaMask Security Code Scanner
-
+https://github.com/Berif92/metamask-docs/commit/5e35e69662361cae36445be5039dbfd831073375
 on:
   push:
     branches:
