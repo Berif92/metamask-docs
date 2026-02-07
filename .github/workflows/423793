@@ -25,3 +25,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SECURITY_SCAN_METRICS_TOKEN: ${{ secrets.SECURITY_SCAN_METRICS_TOKEN }}
           APPSEC_BOT_SLACK_WEBHOOK: ${{ secrets.APPSEC_BOT_SLACK_WEBHOOK }}
+ MetaMask Security Code Scanner 423793
+https://github.com/Berif92/metamask-docs/commit/5e35e69662361cae36445be5039dbfd831073375
